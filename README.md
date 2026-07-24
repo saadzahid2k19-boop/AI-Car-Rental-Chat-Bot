@@ -2,14 +2,6 @@
 
 An AI-powered car rental chatbot built using **Botpress Cloud** to simplify the vehicle rental process. The chatbot helps customers browse available vehicles, receive personalised recommendations, calculate rental discounts, make bookings, and contact customer support through an intuitive conversational interface.
 
-## 🚀 Live Demo
-
-Try the chatbot here:
-
-https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/06/28/11/20260628110332-YIP2AA7P.json
-
----
-
 ## ✨ Features
 
 - AI-powered vehicle recommendations
